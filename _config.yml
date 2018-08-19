@@ -1,7 +1,7 @@
 # Site settings
-title: BY Blog
+title: XiaoxiElnino's Blog
 SEOTitle: 陈观喜的博客 | 前端小站
-header-img: img/post-bg-desk.jpg
+header-img: img/home.jpeg
 email: guanxi_seu@163.com
 description: "什么都不舍弃的人 什么也改变不了"
 keyword: "前端, 前端博客, 陈观喜的博客, xiaoxielnino, iOS, Apple, iPhone"
@@ -96,10 +96,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
+        title: "简书·xiaoxielnino",
         href: "https://www.jianshu.com/u/8a864692f547"
     },{
         title: "Apple",
