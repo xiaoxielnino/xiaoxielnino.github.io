@@ -12,7 +12,7 @@ github_repo: "https://github.com/xiaoxielnino/xiaoxielnino.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "认真生活 认真工作 认真玩"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/kaka.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
